@@ -1,0 +1,7 @@
+application:
+  MARGIN: 2
+  HIGHLIGHT_COLOR_BACK: WHITE
+  HIGHLIGHT_COLOR_FORE: BLACK
+
+path:
+  path: "/Users/mac/Desktop/myprojects/FocusThis/text.txt"
